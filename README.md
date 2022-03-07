@@ -173,7 +173,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [ ] [Shipping is a feature](http://a16z.com/2014/04/16/shipping-is-a-feature-some-guiding-principals-for-people-that-build-things/) - Steven Sinofsky
 - [ ] [Great product leaders win games](http://blog.adamnash.com/2012/02/29/great-product-leaders-win-games/) - Adam Nash
 - [ ] [How to deliver more software projects on time](http://www.inc.com/mark-suster/how-to-deliver-more-software-projects-on-time.html) - Mark Suster
-- [ ] [Always be defining success](https://pmblog.quora.com/Always-Be-Defining-Success) - Jackie Bavaro
+- [x] [Always be defining success](https://pmblog.quora.com/Always-Be-Defining-Success) - Jackie Bavaro
 - [ ] [The only metric that matters](https://medium.com/@joshelman/the-only-metric-that-matters-ab24a585b5ea) - Josh Elman
 - [ ] [The blind Product Manager](http://blog.intercom.io/the-blind-product-manager/) - Paul Adams
 - [ ] [Shipping beats perfection explained](http://bjk5.com/post/60760280107/shipping-beats-perfection-explained) - Ben Kamens
